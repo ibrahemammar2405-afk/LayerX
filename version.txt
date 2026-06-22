@@ -1,2 +1,2 @@
-1.0.1
-https://github.com/ibrahemammar2405-afk/LayerX/releases/download/v1.0.1/update.zip
+1.1.1
+https://github.com/ibrahemammar2405-afk/LayerX/releases/download/v1.1.1/update.zip
