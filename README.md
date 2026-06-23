@@ -1,1 +1,1 @@
-This is a beta version of **LayerX** ; an AutoCAD Plugin which 
+This is a beta version of **LayerX** ; an AutoCAD Plugin which is a productivity-focused AutoCAD plugin built to unify team workflows. By automating layer management and enforcing project-specific drafting standards, LayerX empowers engineering crews to deliver consistent, high-quality drawings with greater efficiency.
