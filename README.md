@@ -17,12 +17,17 @@ Update the Plugin if there are any updates **[Plugin will search automatically f
 
 ### Features 
 
-**Focus Mode** changes all other non selected disciplines to be Halftoned until focus mode deactivated.
+1-**Focus Mode** changes all other non selected disciplines to be Halftoned until focus mode deactivated.
+
 *Note: Single and Multi disciplines can be selected to be focused.
-**Assign Mode** While you are in assign mode you can easily match any selected object to be with the same properties as a layer selected from the plugin.
-**One Click** all you need to add the plugin layers to your drawing or change the current layer to be the one which you selected.
-**Search** Search Field to easily find a specific layer.
-**Updates** : **[Plugin will search automatically for any available update and will notify you ! ]**
+
+2-**Assign Mode** While you are in assign mode you can easily match any selected object to be with the same properties as a layer selected from the plugin.
+
+3-**One Click** all you need to add the plugin layers to your drawing or change the current layer to be the one which you selected.
+
+4-**Search** Search Field to easily find a specific layer.
+
+5-**Updates** : **[Plugin will search automatically for any available update and will notify you ! ]**
 
 ### 1-UI 
 <img width="273" height="854" alt="image" src="https://github.com/user-attachments/assets/9644f01a-0c22-4674-9b68-37b93b160df9" />
