@@ -14,6 +14,7 @@ after installing run command in AutoCAD
 > `layerx`
 
 Update the Plugin if there are any updates **[Plugin will search automatically for any available update and will notify you ! ]**
+<img width="262" height="233" alt="image" src="https://github.com/user-attachments/assets/c59543b1-14c9-44d9-b5e9-3d3b1e47dab5" />
 
 ### Features 
 
